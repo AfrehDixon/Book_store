@@ -1,0 +1,22 @@
+.navbar{
+    background-color: yellow;
+
+}
+.nav{
+    /* background-color: rgb(189, 48, 48); */
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+
+}
+/* .nav_links{
+    text-decoration: none;
+    gap :10px;
+} */
+.nav_items{
+    text-decoration: none;
+    margin: 0 10px;
+}
